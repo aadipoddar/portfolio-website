@@ -36,3 +36,5 @@ yarn-error.log*
 
 # Sanity Folder Files
 mediumnext/node_modules
+
+dist
