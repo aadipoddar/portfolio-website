@@ -4,8 +4,6 @@ import {
   Link,
   List,
   ListItem,
-  SimpleGrid,
-  UnorderedList,
   Heading,
   Center
 } from '@chakra-ui/react'
@@ -24,7 +22,7 @@ const Work = () => (
         Medium is a platform where you can post stuff and others can comment on it giving their feedback.
       </P>
       <P>
-        This service is currently under development. It's initial version is complete looking forward to add new stuff.
+        This service is currently under development. It&apos;s initial version is complete looking forward to add new stuff.
       </P>
       <List ml={4} my={4}>
         <ListItem>

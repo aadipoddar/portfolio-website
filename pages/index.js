@@ -62,10 +62,10 @@ const Home = () => (
           Work
         </Heading>
         <Paragraph>
-          I'am is a full-stack developer based in India with a
+          I&apos;m is a full-stack developer based in India with a
           passion for building digital services/stuff. I have a knack
           for all things launching products, from planning and designing all the
-          way to solving real-life problems with code. I'am currently studying in High School,
+          way to solving real-life problems with code. I&apos;m currently studying in High School,
           Completing my engineering.
         </Paragraph>
         <Box align="center" my={4}>
@@ -87,7 +87,7 @@ const Home = () => (
         </BioSection>
         <BioSection>
           <BioYear>2022</BioYear>
-          Completed High School from St. James' School, Kolkata.
+          Completed High School from St. James&apos; School, Kolkata.
         </BioSection>
       </Section>
 
