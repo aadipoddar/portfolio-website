@@ -54,7 +54,7 @@ const Work = () => (
         <Center>Photos</Center>
       </Heading>
 
-      <WorkImage src="/images/works/snapchat-logo.png" alt="Snapchat" />
+      <WorkImage src="/images/works/Snapchat-Logo.png" alt="Snapchat" />
       <WorkImage src="/images/works/snapchat-1.png" alt="Snapchat Camera Page" />
       <WorkImage src="/images/works/snapchat-2.png" alt="Snapchat Send Page" />
     </Container>
