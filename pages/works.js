@@ -28,7 +28,7 @@ const Works = () => (
 
         <Section>
           <WorkGridItem id="minsk" thumbnail={thumbMinsk} title="Minsk">
-            TMinsk, a handwritten compiler in C#.
+            Minsk, a handwritten compiler in C#.
           </WorkGridItem>
         </Section>
 
