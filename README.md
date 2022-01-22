@@ -1,6 +1,6 @@
 # Aadi's Homepage
 
-[Go to Website](https://aadipoddar.vercel.app)
+[Go to Website](https://aadi.vercel.app)
 
 ## Stack
 
