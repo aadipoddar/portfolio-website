@@ -66,7 +66,11 @@ const Home = () => (
           passion for building digital services/stuff. I have a knack
           for all things launching products, from planning and designing all the
           way to solving real-life problems with code. I&apos;m currently studying in High School,
-          Completing my engineering.
+          Completing my engineering. Checkout my{' '}
+          <NextLink href="https://aadiroom.vercel.app">
+            <Link>Room</Link>
+          </NextLink>
+          .
         </Paragraph>
         <Box align="center" my={4}>
           <NextLink href="/works">
