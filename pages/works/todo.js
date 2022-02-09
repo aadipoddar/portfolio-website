@@ -41,7 +41,7 @@ const Work = () => (
 
         <ListItem>
           <Meta>Source</Meta>
-          <Link href="https://github.com/aadipoddar/react-native-animated-todo">
+          <Link href="https://github.com/aadipoddar/react-native-animated-todo" target="_blank">
             github.com/TODO <ExternalLinkIcon mx="2px" />
           </Link>
         </ListItem>

@@ -27,14 +27,14 @@ const Work = () => (
       <List ml={4} my={4}>
         <ListItem>
           <Meta>Website</Meta>
-          <Link href="https://snapchat-react-877a2.web.app">
+          <Link href="https://snapchat-react-877a2.web.app" target="_blank">
             Snapchat Clone <ExternalLinkIcon mx="2px" />
           </Link>
         </ListItem>
 
         <ListItem>
           <Meta>Source</Meta>
-          <Link href="https://github.com/aadipoddar/snapchat-react">
+          <Link href="https://github.com/aadipoddar/snapchat-react" target="_blank">
             github/snapchat <ExternalLinkIcon mx="2px" />
           </Link>
         </ListItem>

@@ -29,7 +29,7 @@ const Work = () => (
             <List ml={4} my={4}>
                 <ListItem>
                     <Meta>Source</Meta>
-                    <Link href="https://github.com/aadipoddar/WhatsAppAndroidStudio">
+                    <Link href="https://github.com/aadipoddar/WhatsAppAndroidStudio" target="_blank">
                         github/whatsapp <ExternalLinkIcon mx="2px" />
                     </Link>
                 </ListItem>

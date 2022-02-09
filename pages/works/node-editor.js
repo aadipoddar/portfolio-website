@@ -36,7 +36,7 @@ const Work = () => (
 
         <ListItem>
           <Meta>Source</Meta>
-          <Link href="https://github.com/aadipoddar/NodeEditor">
+          <Link href="https://github.com/aadipoddar/NodeEditor" target="_blank">
             github/node-editor <ExternalLinkIcon mx="2px" />
           </Link>
         </ListItem>

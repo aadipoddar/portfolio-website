@@ -27,14 +27,14 @@ const Work = () => (
             <List ml={4} my={4}>
                 <ListItem>
                     <Meta>Website</Meta>
-                    <Link href="https://google-search-react-aadi.netlify.app/">
+                    <Link href="https://google-search-react-aadi.netlify.app/" target="_blank">
                         Google Clone <ExternalLinkIcon mx="2px" />
                     </Link>
                 </ListItem>
 
                 <ListItem>
                     <Meta>Source</Meta>
-                    <Link href="https://github.com/aadipoddar/google_react_clone">
+                    <Link href="https://github.com/aadipoddar/google_react_clone" target="_blank">
                         github/google <ExternalLinkIcon mx="2px" />
                     </Link>
                 </ListItem>

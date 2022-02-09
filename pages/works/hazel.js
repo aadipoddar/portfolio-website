@@ -27,7 +27,7 @@ const Work = () => (
         <ListItem>
           <Meta>Source</Meta>
           <Link href="https://github.com/aadipoddar/Hazel" target="_blank">
-            https://github.com/aadipoddar/Hazel <ExternalLinkIcon mx="2px" />
+            github/Hazel <ExternalLinkIcon mx="2px" />
           </Link>
         </ListItem>
       </List>
