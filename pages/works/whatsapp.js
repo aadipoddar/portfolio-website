@@ -48,7 +48,7 @@ const Work = () => (
             <Box align="center" my={6}>
                 <Link
                     className="link-appstore"
-                    href="https://objects.githubusercontent.com/github-production-release-asset-2e65be/401710347/0ef2d3d9-850b-4226-9ec5-c25105f5a3fd?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20220209%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220209T183752Z&X-Amz-Expires=300&X-Amz-Signature=9bd4dfc18ac22d1405fd6e5ceea1fd3c91070cc20d5f4a9cea3b3ef90d2bde6c&X-Amz-SignedHeaders=host&actor_id=83405769&key_id=0&repo_id=401710347&response-content-disposition=attachment%3B filename%3Dapp-release.apk&response-content-type=application%2Fvnd.android.package-archive"
+                    href="https://github.com/aadipoddar/WhatsAppAndroidStudio/releases/download/v1.0/app-release.apk"
                     target="_blank"
                 >
                     <Image
