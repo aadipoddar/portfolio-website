@@ -78,7 +78,7 @@ const Navbar = props => {
             Posts
           </LinkItem>
           <LinkItem
-            _target="_blank"
+            target="_blank"
             href="https://github.com/aadipoddar/portfolio-website"
             path={path}
             display="inline-flex"
