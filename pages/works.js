@@ -8,7 +8,7 @@ import thumbMedium from '../public/images/works/medium-logo.png'
 import thumbSnapchat from '../public/images/works/Snapchat-Logo.png'
 import thumbTodo from '../public/images/works/TODO-logo.png'
 import thumbMinsk from '../public/images/works/minsk-logo.jpg'
-import thumbNode from '../public/images/works/Node-Editor-Logo.jpg'
+import thumbTinder from '../public/images/works/Tinder-Logo.png'
 import thumbWhatsapp from '../public/images/works/Whatsapp-Logo.jpg'
 import thumbGoogle from '../public/images/works/google-logo.png'
 
@@ -63,8 +63,8 @@ const Works = () => (
         </Section>
 
         <Section delay={0.5}>
-          <WorkGridItem id="node-editor" thumbnail={thumbNode} title="Node Editor">
-            A Node Editor in Python
+          <WorkGridItem id="tinder" thumbnail={thumbTinder} title="Tinder">
+            Tinder clone in React Native
           </WorkGridItem>
         </Section>
 
